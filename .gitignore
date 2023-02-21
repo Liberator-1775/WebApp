@@ -1,0 +1,27 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# dependencies
+src/WebUi/ClientApp/node_modules
+src/WebUi/ClientApp/.pnp
+src/WebUi/ClientApp/.pnp.js
+
+# testing
+src/WebUi/ClientApp/coverage
+
+# production
+src/WebUi/ClientApp/build
+
+# misc
+src/WebUi/ClientApp/.DS_Store
+src/WebUi/ClientApp/.env.local
+src/WebUi/ClientApp/.env.development.local
+src/WebUi/ClientApp/.env.test.local
+src/WebUi/ClientApp/.env.production.local
+
+src/WebUi/ClientApp/npm-debug.log*
+src/WebUi/ClientApp/yarn-debug.log*
+src/WebUi/ClientApp/yarn-error.log*
